@@ -226,7 +226,7 @@ footskip=1in,
 %% For thesis.
 \if@thesis
 \fancyhead[L]{\raisebox{1.5in}{\@hmclogo}}
-\fancyhead[R]{\resizebox{6in}{!}{\includegraphics{hmcmath-hexen-logo}}}
+\fancyhead[R]{\resizebox{4in}{!}{\includegraphics{hmcmath-cube-logo}}}
 \fi
 
 
